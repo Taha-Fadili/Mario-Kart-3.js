@@ -58,36 +58,19 @@ Start the dev server
 
 - [ ] Design Landing page
 
-- [ ] Add items
+- [ ] Add wind screen effect when boosting 
 
-- [ ] Add texture to the flame shaders
-
-- [ ] Add curve/length modifiers to drift particles 3/4
-
-- [ ] Add Skid marks
-
-- [x] Add smokes
-
-- [ ] Add wind screen effect when boosting
-
-- [ ] Improve sound design quality
+- [ ] Improve sound design quality (add non copyright music for ambiance)
 
 - [ ] Design UI for HUD
 
-- [ ] Make Time Trial mode
-
-- [ ] Design tracks and checkpoints
+- [ ] Design tracks 
 
 - [ ] Improve code quality
 
 - [ ] Add Minimap
 
-- [ ] Items
-  - [ ] Tennis ball
-  - [ ] Bomb
-  - [ ] Real red shell
-  - [ ] Treats
-  - [ ] ?
+
 
 ## License
 
